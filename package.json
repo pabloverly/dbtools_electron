@@ -1,0 +1,19 @@
+{
+  "main": "main.js",
+  "name": "dbtools",
+  "version": "1.0.0",
+  "description": "Data Base Tools",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git remote add origin https://github.com/pabloverly/dbtools_electron.git"
+  },
+  "author": "Pablo Verly",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^15.1.2"
+  }
+}
